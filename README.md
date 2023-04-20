@@ -10,9 +10,8 @@ In this Exploratory Data Analysis (EDA) project we'll clean up the data and prep
 2. Provide a brief explanation of the results after answering each question.
 3. Make plots that communicate your results.
 
-## Library Used
+## Libraries Used
 
 1. `pandas`
 2. `numpy`
 3. `matplotlib`
-4.
