@@ -10,8 +10,25 @@ In this Exploratory Data Analysis (EDA) project we'll clean up the data and prep
 2. Provide a brief explanation of the results after answering each question.
 3. Make plots that communicate your results.
 
+## Points Analyzed
+
+- Verify that the `'order_hour_of_day'` and `'order_dow'` values in the `orders` tables are sensible
+- What time of day do people shop for groceries?
+- What day of the week do people shop for groceries?
+- How long do people wait until placing another order?
+- Is there a difference in `'order_hour_of_day'` distributions on Wednesdays and Saturdays?
+- What's the distribution for the number of orders per customer?
+- What are the top 20 popular products?
+- How many items do people typically buy in one order?
+- What are the top 20 items that are reordered most frequently?
+- What are the top 20 items that people put in their carts first?
+
 ## Libraries Used
 
 1. `pandas`
 2. `numpy`
 3. `matplotlib`
+
+## Kaggle Notebook Link
+
+[EDA: Shopping Habits of Instacart Cutomers](https://www.kaggle.com/code/shraddha0/eda-shopping-habits-of-instacart-cutomers)
